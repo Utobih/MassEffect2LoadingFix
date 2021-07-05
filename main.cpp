@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
-#include <regv.h>
-#include "resource.h"
+#include "include/regv.h"
+#include "include/resource.h"
 
 using namespace std;
 
